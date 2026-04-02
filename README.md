@@ -1,7 +1,6 @@
 # Headphone-design
-# CAD Project
-# Wireless Headphones aka
-# Kabellose Kopfhörer
+CAD Project
+Wireless Headphones aka Kabellose Kopfhörer
 
 ## Team
 CADAdv_Team_4
