@@ -2,8 +2,9 @@
 CAD Project
 Wireless Headphones aka Kabellose Kopfhörer
 
-## Team
-CADAdv_Team_4
+## Team-Members
+CADAdv_Team_4: Hazeeq,Isma and Syahir
+
 
 
 ## English
