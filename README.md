@@ -2,7 +2,7 @@
 CAD Project
 Wireless Headphones aka Kabellose Kopfhörer
 
-<img src="Kopfhörer/Pictures/headphone.jpeg" alt="Project Picture" width="400">
+<img src="Kopfhörer/Pictures/Headphone.jpeg" alt="Project Picture" width="400">
 
 
 
