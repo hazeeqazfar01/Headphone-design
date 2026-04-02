@@ -5,7 +5,6 @@ Wireless Headphones aka Kabellose Kopfhörer
 ## Team
 CADAdv_Team_4
 
----
 
 ## English
 
